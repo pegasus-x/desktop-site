@@ -30,6 +30,10 @@ Implemented media queries for:
 ├── styles.css
 ├── script.js 
 └── README.md 
+
+
 🔍 Highlights
 CSS Animations: Smooth fade-in and slide-up effects on cards and sections.
 Toast Notification: Feedback when users click service cards.
+📄 License
+MIT © 2025 [Pegasus X]
